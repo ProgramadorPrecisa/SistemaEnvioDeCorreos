@@ -1,0 +1,51 @@
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.exe
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.pdb
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.xml
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Frm_Principal.resources
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Resources.resources
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.vbproj.GenerateResource.Cache
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+c:\users\webmaster\documents\visual studio 2010\Projects\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Frm_Principal.resources
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Resources.resources
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.vbproj.GenerateResource.Cache
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Frm_Principal.resources
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Resources.resources
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.vbproj.GenerateResource.Cache
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\bin\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\bin\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\bin\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Frm_Principal.resources
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Resources.resources
+C:\Users\WEBMASTER\Desktop\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.vbproj.GenerateResource.Cache
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Desktop\prg\EjecutarEnvio - Externo\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.exe
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.pdb
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\bin\Debug\EjecutarEnvio.xml
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Frm_Principal.resources
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.Resources.resources
+C:\Users\WEBMASTER\Documents\GitHub\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.exe
+C:\Users\Programacion\Desktop\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.xml
+C:\Users\Programacion\Desktop\Ejecutar_Envio_Correos\EjecutarEnvio\EjecutarEnvio\obj\x86\Debug\EjecutarEnvio.pdb
